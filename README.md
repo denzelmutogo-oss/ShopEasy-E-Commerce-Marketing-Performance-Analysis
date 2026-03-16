@@ -201,14 +201,9 @@ Even small improvements in customer experience could raise the average rating ab
 
 # 🛠 Tools Used
 
-This project demonstrates practical data analytics skills using:
-
 - **Python**
-- **Data Analysis**
-- **Marketing Analytics**
-- **Sentiment Analysis**
-- **Data Visualization**
-- **Business Insight Generation**
+- **SQL**
+- **Power BI**
 
 ---
 
